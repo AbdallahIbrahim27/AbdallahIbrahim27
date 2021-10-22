@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Abdallah Ibrahim
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Problem Solving & Mobile Applications
+- 👀 I’m Front-end developer @ Tech Soft
+- 🌱 I’m currently learning React Js and Django
