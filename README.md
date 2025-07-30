@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [LinkedIn]([https://1010nishant.hashnode.dev/](https://www.linkedin.com/in/abdallah-ibrahim-/))
+- 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/abdallah-ibrahim-/])
 
 - 📫 Feel free to reach me out **abdallahibrahiim27@gmail.com**
 <!--Intro end-->
@@ -73,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,slack,jira,aws,docker,github,linux,postman,py,vscode,sklearn,tensorflow,pytorch,flask,django,huggingface,stackoverflow&perline=14" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,slack,jira,aws,docker,linux,postman,py,vscode,sklearn,tensorflow,pytorch,flask,django,huggingface,stackoverflow&perline=14" />
   </a>
 </p>
 
