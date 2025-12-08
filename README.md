@@ -26,15 +26,10 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **NLP, CNN, FASTAPI**
-
-- 🌱 I’m currently learning **RAG, LLM**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/abdallah-ibrahim-/])
-
-- 📫 Feel free to reach me out **abdallahibrahiim27@gmail.com**
+- 🔭 I’m currently working on **GenAI & Agentic AI**  
+- 🌱 I’m currently learning **AWS**  
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/abdallah-ibrahim-/)  
+- 📫 Feel free to reach out: **abdallahibrahiim27@gmail.com**
 <!--Intro end-->
 
 
