@@ -17,7 +17,7 @@
 </div>
 
 <!-- About Me -->
-- 🔭 I’m currently working on **Generative AI & Agentic AI Projects**  
+- 🔭 I’m currently working as an **AI Software Engineer**.  
 - 🌱 Learning **AWS Cloud & Cloud AI Services**  
 - 📝 Writing articles regularly on [LinkedIn](https://www.linkedin.com/in/abdallah-ibrahim-/)  
 - 📫 Reach me at: **abdallahibrahiim27@gmail.com**
