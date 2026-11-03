@@ -3,7 +3,7 @@
 
 <!--Intro -->
 <div align="center">
-  <h1>Hi 👋, I'm Abdullah</h1>
+  <h1>Hi 👋, I'm Abdallah</h1>
   <p>💻 AI Software Engineer</p>
 </div>
 
