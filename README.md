@@ -4,7 +4,7 @@
 <!--Intro -->
 <div align="center">
   <h1>Hi 👋, I'm Abdullah</h1>
-  <p>💻 AI/ML Engineer | GenAI Enthusiast | Cloud Explorer</p>
+  <p>💻 AI Software Engineer</p>
 </div>
 
 <!-- Snake Animation -->
